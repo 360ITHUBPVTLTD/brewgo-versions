@@ -1,0 +1,25 @@
+{
+  "maintenance": {
+    "enabled": false,
+    "message": "We're performing maintenance. Please try again later."
+  },
+  "android": {
+    "min_os_version": "5.0",
+    "current_version": "1.2.56",
+    "force_update_below": "1.2.55",
+    "optional_update_below": "1.2.56",
+    "store_url": "https://play.google.com/store/apps/details?id=com.threesixtyithub.en.brewgo"
+  },
+  "ios": {
+    "min_os_version": "13.0",
+    "current_version": "1.2.56",
+    "force_update_below": "1.2.55",
+    "optional_update_below": "1.2.56",
+    "store_url": ""
+  },
+  "messages": {
+    "force_update": "A new version of BrewGo is available. Please update to continue.",
+    "optional_update": "A new version of BrewGo is available.",
+    "up_to_date": "You're on the latest version."
+  }
+}
